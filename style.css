@@ -48,3 +48,13 @@ body{
     text-decoration: none;
     color: white;
 }
+section{
+    margin-top: 0;
+}
+.AboutUs{
+    background-image: url(./eat-healthy-main/eat-healthy-main/images/shapes/7.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    
+}
