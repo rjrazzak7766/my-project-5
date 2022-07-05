@@ -1,6 +1,8 @@
 body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
+    background-color: #f0eaea;
+    padding: 0;
 }
 .header-section{
     background-image: url(./eat-healthy-main/eat-healthy-main/images/shapes/Frame\ 58.jpg);
@@ -57,4 +59,73 @@ section{
     width: 100%;
     background-size: cover;
     
+}
+  
+.full-width{
+    width: 45%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 2px;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+
+}
+.food-item{
+    
+}
+ .Ourfodditem img .fooditem{
+    width: 80%;
+    display: inline;
+}
+.foodpera{
+    color: #797373cc;
+    text-align: justify;
+    text-align: center;
+}
+.foodperah1{
+    color: #575757;
+    text-align: center;
+    font-size: 40px;
+}
+.Subsceiption{
+    text-align: center;
+    
+}
+.Subsceiption ol li{
+    display: inline-block;
+    list-style: none;
+    margin-right: 5rem;
+    
+}
+.Subsceiption1{
+    box-shadow: 10px 10px 40px grey;
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px;
+    border-radius: 10px;
+}
+.Subsceiption ol li span{
+    font-family: 'Roboto', sans-serif;
+    font-size: 75px;
+    
+}
+footer{
+    background-color: #1a1515 ;
+    text-align: center;
+    width: 100%;
+    height: 6rem;
+    padding-top: 10px ;
+    padding-bottom: 10px;
+    color: #777171;
+    margin-top: 20px;
+    
+}
+footer span{
+    color:#eb5a44;
+    
+}
+footer p{
+    color: #f0eaea;
 }
